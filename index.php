@@ -8,5 +8,9 @@
 <body>
   <h1>Hello dek</h1>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro molestiae natus harum. Animi beatae, voluptas error earum quod quis quia odio reprehenderit iste consequuntur. Officia voluptate iste aut? Laudantium, nemo.</p>
+  <ul>
+    <li>satu</li>
+    <li>dua</li>
+  </ul>
 </body>
 </html>
